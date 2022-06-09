@@ -2,16 +2,7 @@
   "version": 1,
   "project": "Mitiq",
   "project_url": "https://unitaryfund.github.io/mitiq",
-  "repo": "https://github.com/unitaryfund/mitiq",
-  //   "repo": ".",
+  "repo": ".",
   "branches": ["master"],
-  "dvcs": "git",
-  "environment_type": "virtualenv",
-  "show_commit_url": "https://github.com/unitaryfund/mitiq/commit/"
-  //   "pythons": ["3.7"]
-  //   "benchmark_dir": "benchmarks"
-  //   "env_dir": "env",
-  //   "results_dir": "results",
-  //   "html_dir": "html",
-  //   "hash_length": 7
+  "environment_type": "virtualenv"
 }
