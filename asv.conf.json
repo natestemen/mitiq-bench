@@ -1,7 +1,7 @@
 {
   "version": 1,
   "project": "Mitiq",
-  "project_url": "https://github.com/unitaryfund/mitiq",
+  "project_url": "https://unitaryfund.github.io/mitiq",
   "repo": "https://github.com/unitaryfund/mitiq",
   //   "repo": ".",
   "branches": ["master"],
