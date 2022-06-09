@@ -9,8 +9,8 @@
   "show_commit_url": "https://github.com/unitaryfund/mitiq/commit/",
   "pythons": ["3.7"],
   "benchmark_dir": "benchmarks",
-  "env_dir": ".asv/env",
-  "results_dir": ".asv/results",
+  "env_dir": "env",
+  "results_dir": "results",
   "html_dir": "html",
   "hash_length": 7
 }
